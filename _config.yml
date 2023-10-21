@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Harsh Pathak"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student, Department of Agricultural and Biological Engineering, Purdue University.
+                      Research Interests: Applications of Machine Learning and Deep Learning in Agriculture, Agricultural Robotics, Internet of Things, Biophysical and Climate Modeling"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
