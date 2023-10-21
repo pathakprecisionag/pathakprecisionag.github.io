@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research Statment"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I believe that developing solutions to agricultural problems using open-source technologies have a much higher chance of acceptance among the world's resource-poor regions. Therefore, my broader research interest leans on creating useful agriculture tools using open-source software for the farmer at no cost. Other research interests include employing applications of IoT, big data, and computer vision in agriculture, for which I have been educating and honing my coding skills in their respective areas by engaging myself in university courses and other online resources. With all these interests and skills on hand, I believe I will discover, analyze, and build beneficial and functional tools for current agricultural research problems.
 
 A data-driven personal website
 ======
