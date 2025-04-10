@@ -5,7 +5,7 @@ permalink: /publication/2024-07-21-paper-title-number-5
 excerpt: 'Adaptive management strategies are essential for sustainable crop productivity amid climate change and varying soil conditions. This study uses APSIM model to predict corn growth and yield, identifying optimal practices to enhance productivity and profitability under different environmental scenarios.'
 date: 2024-07-21
 venue: '16th International Conference on Precision Agriculture  '
-paperurl: https://www.researchgate.net/profile/Harsh-Pathak-4/publication/382825867_Advancing_Adaptive_Agricultural_Strategies_Unraveling_Impacts_of_Climate_Change_and_Soils_on_Corn_Productivity_Using_APSIM/links/66ad792e299c327096a78845/Advancing-Adaptive-Agricultural-Strategies-Unraveling-Impacts-of-Climate-Change-and-Soils-on-Corn-Productivity-Using-APSIM.pdf
+paperurl: https://shorturl.at/x4sbk
 citation: 'Pathak, H.,Warren, C. J., Buckmaster, D. R., & Wang, D. R. (2024). Advancing Adaptive Agricultural Strategies: Unraveling Impacts of Climate Change and Soils on Corn Productivity Using APSIM. In 16th International Conference on Precision Agriculture.'
 ---
 
