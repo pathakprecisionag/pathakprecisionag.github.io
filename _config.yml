@@ -84,11 +84,11 @@ author:
   avatar           : "harsh.jpg"
   bio              : "PhD Student, Department of Agricultural and Biological Engineering, Purdue University.
                       Research Interests: Applications of Machine Learning and Deep Learning in Agriculture, Agricultural Robotics, Internet of Things, Biophysical and Climate Modeling"
-  location         : "Location"
-  employer         :
+  location         : "West Lafayette"
+  employer         :  "Department of Agricultural and Biological Engineering, Purdue University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Ak_HuLcAAAAJ"
+  email            :  "pathak19@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/harshpathakpurdue"
+  orcid            : "https://orcid.org/0000-0002-6739-3473"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
