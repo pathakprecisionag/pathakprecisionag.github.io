@@ -1,0 +1,14 @@
+---
+title: "Machine learning and handcrafted image processing methods for classifying common weeds in corn field"
+collection: publications
+permalink: /publication/2023-05-10-paper-title-number-2
+excerpt: 'Efficient weed management is crucial for crop yield, and this study proposes using computer vision methods to classify common weeds in North Dakota corn fields. Advanced machine learning models, especially random forest, showed high accuracy in weed identification, outperforming simpler image processing techniques, even by using the simple shape features.'
+date: 2023-05-10
+venue: 'Smart Agricultural Technology'
+paperurl: 'https://doi.org/10.1016/j.atech.2023.100249'
+citation: 'Pathak, H., Igathinathane, C., Howatt, K., & Zhang, Z. (2023). Machine learning and handcrafted image processing methods for classifying common weeds in corn field. Smart agricultural technology, 5, 100249.'
+---
+<strong>Abstract: </strong>Weed management practices strive to reduce weeds, which compete with crops for nutrients, sunlight, and water and are thus important for maintaining yield. In most weed management practices, the first step is to identify or classify weeds. However, efficient identification and classification of weeds are challenging using conventional manual methods such as field visits. Therefore, in this study, we propose to classify four common weeds in the corn field of North Dakota (common lambsquarters, common purslane, horseweed, and redroot pigweed), also applicable to other regions, using computer vision methods. Weeds were grown in plastic trays under natural conditions from the field soil, and images were collected using an RGB camera. For each weed species, 21 shape features were extracted through a developed ImageJ plugin. The handcrafted simple image processing approach was highly successful in distinguishing common lambsquarters and redroot pigweed from horseweed, while did not perform well with other species combinations and classifying them collectively owing to the similarity of the shapes. However, the three advanced non-parametric machine learning (ML) models, namely, k-nearest neighbor (kNN), random forest (RF), and support vector machine (SVM), resulted in high accuracies with RF outperforming the others. It is recommended that the handcrafted simple image processing algorithm should be tried first, due to its simplicity, for the identification and classification of weeds before resorting to advanced and complex versatile ML modeling approaches. Such tools and methodologies using open-source platforms will be easily accessible and helpful to farmers, producers, and other stakeholders related to crop production.
+
+
+Recommended citation: Pathak, H., Igathinathane, C., Howatt, K., & Zhang, Z. (2023). Machine learning and handcrafted image processing methods for classifying common weeds in corn field. Smart agricultural technology, 5, 100249.
