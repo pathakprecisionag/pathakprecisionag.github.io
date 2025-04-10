@@ -8,8 +8,8 @@ venue: 'Computers and Electronics in Agriculture'
 paperurl: 'https://doi.org/10.1016/j.compag.2022.107064'
 citation: 'Pathak, H., Igathinathane, C., Zhang, Z., Archer, D., & Hendrickson, J. (2022). A review of unmanned aerial vehicle-based methods for plant stand count evaluation in row crops. Computers and Electronics in Agriculture, 198, 107064.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is a review paper on methods for evaluating plant stand count using UAV imagery. This review will be helpful for farmers, producers, and researchers in selecting and employing UAV-based algorithms for evaluating plant stand count.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1016/j.compag.2022.107064)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Pathak, H., Igathinathane, C., Zhang, Z., Archer, D., & Hendrickson, J. (2022). A review of unmanned aerial vehicle-based methods for plant stand count evaluation in row crops. Computers and Electronics in Agriculture, 198, 107064.
