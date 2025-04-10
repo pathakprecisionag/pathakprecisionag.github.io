@@ -10,6 +10,4 @@ citation: 'Pathak, H., Igathinathane, C., Zhang, Z., Archer, D., & Hendrickson, 
 ---
 This paper is a review paper on methods for evaluating plant stand count using UAV imagery. This review will be helpful for farmers, producers, and researchers in selecting and employing UAV-based algorithms for evaluating plant stand count.
 
-[Download paper here](https://doi.org/10.1016/j.compag.2022.107064)
-
 Recommended citation: Pathak, H., Igathinathane, C., Zhang, Z., Archer, D., & Hendrickson, J. (2022). A review of unmanned aerial vehicle-based methods for plant stand count evaluation in row crops. Computers and Electronics in Agriculture, 198, 107064.
