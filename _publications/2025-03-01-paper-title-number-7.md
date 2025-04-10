@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-03-01-paper-title-number-7
 excerpt: 'Computational design in agriculture uses data-driven systems to propose and evaluate agricultural configurations, integrating computational and crop science approaches. This special issue highlights its potential to adapt agricultural systems to societal goals, facilitate transdisciplinary research, and enhance stakeholder engagement, especially in the context of changing climates and market demands.'
 date: 2025-03-09
-venue: 'Smart Agricultural Technology '
+venue: 'Crop Science '
 paperurl: https://doi.org/10.1002/csc2.70034
 citation: 'Kantar, M., Ewing, P., Bančič, J., Fumia, N., Garba, I., Jamshidi, S., Jannink, J.‐L., Jha, P., Jungers, J., Pathak, H., Paul, S. S., Raghavan, B., Runck, B., Singh, J., Subedi, S., Joshi, V., & Wang, D. (Year). Computational design for more engaged, impactful, and dynamic agricultural research. Crop Science, 65(2), e70034.'
 ---
