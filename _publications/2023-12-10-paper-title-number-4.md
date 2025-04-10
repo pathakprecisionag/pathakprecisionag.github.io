@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Navigation in Digital Agriculture: Using the Segment-Anything-Model for Corn Row Identification"
 collection: publications
-permalink: /publication/2023-07-12-paper-title-number-4
+permalink: /publication/2023-12-10-paper-title-number-4
 excerpt: 'Agricultural robots can boost productivity and resource optimization, but navigating them is challenging due to complex landscapes. This study introduces an RGB image processing method using the Segment Anything Model (SAM) for improved row detection and navigation, achieving a navigation angle error with an overall RMSE of 9.78°.'
 date: 2023-12-10
 venue: '2023 IEEE India Geoscience and Remote Sensing Symposium (InGARSS) '
