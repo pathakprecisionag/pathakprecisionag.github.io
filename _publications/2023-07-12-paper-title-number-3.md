@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-07-12-paper-title-number-3
 excerpt: 'Crop growth models can bridge the gap in real-time decision-making for better profitability and sustainability, especially in complex scenarios like nitrogen management for corn. This study uses APSIM to evaluate various nitrogen strategies, highlighting their impact on yield, N2O emissions, and N leaching.'
 date: 2023-07-12
-venue: 'In 2023 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers.'
+venue: '2023 ASABE Annual International Meeting '
 paperurl: 'https://elibrary.asabe.org/abstract.asp?aid=54131'
 citation: 'Pathak, H., Buckmaster, D., Messina, C., & Wang, D. (2023). Crop growth model: Optimal Application of Nitrogen Fertilizer in Corn for Economic Returns and Environmental Sustainability. In 2023 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers.'
 ---

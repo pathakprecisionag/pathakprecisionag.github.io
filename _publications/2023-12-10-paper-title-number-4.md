@@ -1,0 +1,14 @@
+---
+title: "Autonomous Navigation in Digital Agriculture: Using the Segment-Anything-Model for Corn Row Identification"
+collection: publications
+permalink: /publication/2023-07-12-paper-title-number-4
+excerpt: 'Agricultural robots can boost productivity and resource optimization, but navigating them is challenging due to complex landscapes. This study introduces an RGB image processing method using the Segment Anything Model (SAM) for improved row detection and navigation, achieving a navigation angle error with an overall RMSE of 9.78°.'
+date: 2023-12-10
+venue: '2023 IEEE India Geoscience and Remote Sensing Symposium (InGARSS) '
+paperurl: '10.1109/InGARSS59135.2023.10490329'
+citation: 'Pathak, H., Zhang, Y., Sprague, N. C., Buckmaster, D. R., Evans, J. T., Chaterji, S., & Krogmeier, J. V. (2023, December). Autonomous Navigation in Digital Agriculture: Using the Segment-Anything-Model for Corn Row Identification. In 2023 IEEE India Geoscience and Remote Sensing Symposium (InGARSS) (pp. 1-4). IEEE.'
+---
+
+<strong> Abstract: </strong>Agricultural robots have the potential to increase productivity, save labor, and optimize resources. However, navigating these robots remains challenging due to the intricate and dynamic nature of agricultural landscapes. Traditional image processing techniques often fall short in large-scale applications due to varying environmental conditions. To address this challenge, our paper introduces a novel in-field RGB image processing methodology centered on row detection and navigation. Using the state-of-the-art foundation model, Segment Anything Model (SAM), as our backbone, we harness vegetation index values extracted from excess green segmentation as prompts. This assists the SAM model in generating refined masks tailored for robot navigation within rows. Evaluation conducted on 50 test images showcased a navigation angle error chiefly between −5.72&deg and 8.72&deg. However, 8% of the tests displayed errors spanning from 19&deg to 48&deg. The overall root mean square error (RMSE) of the algorithm was 9.78&deg. To counter these significant angular discrepancies, we advocate for the integration of finite-state machine algorithms. Our research offers a promising avenue for more robust row detection and navigation techniques in agricultural robotics.
+
+*Recommended citation*: <strong>Pathak, H. </strong>, Zhang, Y., Sprague, N. C., Buckmaster, D. R., Evans, J. T., Chaterji, S., & Krogmeier, J. V. (2023, December). Autonomous Navigation in Digital Agriculture: Using the Segment-Anything-Model for Corn Row Identification. In 2023 IEEE India Geoscience and Remote Sensing Symposium (InGARSS) (pp. 1-4). IEEE.
