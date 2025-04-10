@@ -1,5 +1,5 @@
 ---
-title: "A case study on canola (Brassica napus L.) potential yield prediction using remote sensing imagery and advanced data analytics"
+title: "Computational design for more engaged, impactful, and dynamic agricultural research."
 collection: publications
 permalink: /publication/2025-03-01-paper-title-number-7
 excerpt: 'Computational design in agriculture uses data-driven systems to propose and evaluate agricultural configurations, integrating computational and crop science approaches. This special issue highlights its potential to adapt agricultural systems to societal goals, facilitate transdisciplinary research, and enhance stakeholder engagement, especially in the context of changing climates and market demands.'
