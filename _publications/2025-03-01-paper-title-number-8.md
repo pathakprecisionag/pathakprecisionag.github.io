@@ -1,0 +1,14 @@
+---
+title: "Deep learning for sunflower (Helianthus annuus L.) mapping and stand counting: Trade-offs between closed vs. open-access methods"
+collection: publications
+permalink: /publication/2025-03-01-paper-title-number-7
+excerpt: 'This study compared deep learning approaches for mapping and counting sunflower plants in North Dakota using high-resolution drone imagery, evaluating both ArcGIS Pro built-in tools and a custom Python-based pipeline. The external YOLOv11 model outperformed ArcGIS Pro integrated models, achieving 98.9% precision and demonstrating that open-access environments offer better scalability and flexibility for agricultural mapping tasks than commercial GIS software.'
+date: 2025-07-22
+venue: 'Smart Agricultural Technology '
+paperurl: https://doi.org/10.1016/j.atech.2025.101235
+citation: 'Villamil-Mahecha, M., Pathak, H., Rai, N., Overby, P., & Sun, X. (2025). Deep learning for sunflower (Helianthus annuus L.) mapping and stand counting: Trade-offs between closed vs. open-access methods. Smart Agricultural Technology, 101235.'
+---
+
+<strong> Abstract: </strong>Computational design in agriculture is the use of data-driven systems and tools to propose and evaluate alternative configurations of agricultural systems. It is unique from digital agriculture in that it integrates computational and crop science approaches to formulate problems rather than mitigating problems by applying digital technologies. In this special issue, we highlight how computational design could be used to adapt agricultural systems to better meet societal goals more rapidly and at lower cost. Many disciplines within crop sciences are represented, from breeding to cropping systems agronomy. Using a symposium at a major scientific conference as a case study, we also demonstrate how this framing of computational design can facilitate transdisciplinary research. Critically, all participants highlighted the potential of computational design to facilitate stakeholder engagement through eliciting, formalizing, and evaluating their values and experiences. This is especially important within the grand challenge contexts of changing climates and market demands, where intuition developed in the past may break down. By leveraging the power of computational design, we can make informed decisions to create agricultural systems that maximize productivity while minimizing environmental impact under current and future environments.
+
+*Recommended citation*: Villamil-Mahecha, M., <strong>Pathak, H.</strong>, Rai, N., Overby, P., & Sun, X. (2025). Deep learning for sunflower (Helianthus annuus L.) mapping and stand counting: Trade-offs between closed vs. open-access methods. Smart Agricultural Technology, 101235.
